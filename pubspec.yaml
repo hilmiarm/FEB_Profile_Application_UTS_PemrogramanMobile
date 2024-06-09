@@ -1,0 +1,55 @@
+name: feb_upn
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.2.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+assets:
+  - assets/upn.png
+  - assets/gerbang.jpg
+  - assets/gedung.jpg
+  - assets/background.jpg
+  - assets/tut.png
+  - assets/blu.png
+  - assets/kampus.png
+  - assets/dirga2.jpeg
+  - assets/hilmi.jpg
+  - assets/akuntansi.jpeg
+  - assets/kewirausahaan.jpeg
+  - assets/ep.jpeg
+  - assets/manajemen.jpeg
+  - assets/akuntansi/KetuaAkuntansi.png
+  - assets/akuntansi/MapresAkuntansi1.jpeg
+  - assets/akuntansi/MapresAkuntansi2.jpg
+  - assets/akuntansi/MapresAkuntansi3.jpg
+  - assets/manajemen/KetuaManajemen.png
+  - assets/manajemen/MapresManajemen1.jpg
+  - assets/manajemen/MapresManajemen2.jpg
+  - assets/manajemen/MapresManajemen3.jpg
+  - assets/kewirausahaan/KoorKWU.jpg
+  - assets/kewirausahaan/MapresKWU1.jpg
+  - assets/ekonomi/KoorEkpem.jpg
+  - assets/ekonomi/MapresEkpem1.jpg
+  - assets/ekonomi/MapresEkpem2.jpg
+  - assets/ekonomi/MapresEkpem3.jpg
+  - assets/s2/KetuaS2.jpg
+
+fonts:
+  - family: Poppins2
+    fonts:
+      - asset: fonts/Poppins-Regular.ttf
+      - asset: fonts/Poppins-Black.ttf
